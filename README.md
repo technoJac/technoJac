@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA, Web Dev and has developed an interest in open source
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact about me: 😴📚🤓🏓🏸
-- 
+ 
